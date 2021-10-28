@@ -1,5 +1,7 @@
-# Magento 2 EAV Cleaner Console Command
 
+# Abandoned: use [magento-hackathon/module-eavcleaner-m2](https://github.com/magento-hackathon/module-eavcleaner-m2)
+
+## Magento 2 EAV Cleaner Console Command
 Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.
 
 ## Dry run
