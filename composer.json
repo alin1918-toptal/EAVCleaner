@@ -3,7 +3,7 @@
     "description": "Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.",
     "abandoned": "magento-hackathon/module-eavcleaner-m2",
     "require": {
-        "php": "~7.1|~7.2|~7.3",
+        "php": "~7.1|~7.2|~7.3|~8.1",
         "magento/magento2-base": "~2.2|~2.3",
         "magento/magento-composer-installer": "*"
     },
