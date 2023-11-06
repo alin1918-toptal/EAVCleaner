@@ -36,3 +36,4 @@ composer require hackathon/magento2-eavcleaner
 - Damian Luszczymak
 - Joke Puts
 - Ralf Siepker
+
